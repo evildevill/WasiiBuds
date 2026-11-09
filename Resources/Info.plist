@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CFBundleDisplayName</key><string>WasiiBuds</string>
+    <key>NSBluetoothAlwaysUsageDescription</key><string>WasiiBuds connects to your OnePlus earbuds to show battery levels and change noise control.</string>
+    <key>UILaunchScreen</key><dict></dict>
+    <key>UIUserInterfaceStyle</key><string>Light</string>
+    <key>CFBundleURLTypes</key>
+    <array><dict><key>CFBundleURLSchemes</key><array><string>wasiibuds</string></array></dict></array>
+</dict></plist>
