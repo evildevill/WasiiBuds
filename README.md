@@ -1,5 +1,7 @@
 # WasiiBuds
 
+![WasiiBuds Banner](./Images/banner-dark.png)
+
 [![Domain tests](https://github.com/evildevill/WasiiBuds/actions/workflows/domain-tests.yml/badge.svg)](https://github.com/evildevill/WasiiBuds/actions/workflows/domain-tests.yml)
 ![Swift 6](https://img.shields.io/badge/Swift-6.0-EA5B22)
 ![iOS 17+](https://img.shields.io/badge/iOS-17%2B-111111)
