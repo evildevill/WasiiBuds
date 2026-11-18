@@ -10,6 +10,6 @@ The [MIT License](LICENSE) covers WasiiBuds' original code and documentation. It
 
 ## Protocol research
 
-The implementation uses independently represented protocol facts and device observations. Research references include [cracked-oneplus-buds](https://github.com/AasheeshLikePanner/cracked-oneplus-buds), whose README states MIT, and [QuickBuds](https://github.com/spizganed/QuickBuds), licensed GPL-3.0-or-later. Those repositories' source files are not bundled in WasiiBuds. Reusing their source expression, as opposed to implementing protocol facts, may carry additional license obligations and needs review before publication.
+The implementation uses independently represented protocol facts and device observations. Research references include [cracked-oneplus-buds](https://github.com/AasheeshLikePanner/cracked-oneplus-buds), whose README states MIT. That repository's source files are not bundled in WasiiBuds. Reusing third-party source expression, as opposed to implementing protocol facts, may carry additional license obligations and needs review before publication.
 
 WasiiBuds is independent of OnePlus, OPPO, HeyMelody, and their affiliates. Their names identify compatible hardware or services and do not imply endorsement.
