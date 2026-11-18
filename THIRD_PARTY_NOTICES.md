@@ -8,8 +8,4 @@ The [MIT License](LICENSE) covers WasiiBuds' original code and documentation. It
 
 `Resources/AppIcon.png` was supplied by the project maintainer. Confirm the icon's authorship and redistribution rights before public release; its provenance is not documented here.
 
-## Protocol research
-
-The implementation uses independently represented protocol facts and device observations. Research references include [cracked-oneplus-buds](https://github.com/AasheeshLikePanner/cracked-oneplus-buds), whose README states MIT. That repository's source files are not bundled in WasiiBuds. Reusing third-party source expression, as opposed to implementing protocol facts, may carry additional license obligations and needs review before publication.
-
 WasiiBuds is independent of OnePlus, OPPO, HeyMelody, and their affiliates. Their names identify compatible hardware or services and do not imply endorsement.
